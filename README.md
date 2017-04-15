@@ -1,6 +1,11 @@
 # test_repo
-This is a test repo created for practicing only.
 
-Hello, all,
+## The following is some markdown practice.
 
-This is Kyna the Martian.
+### Hello, all (this should be a secondary heading.)
+
+### This is Kyna the Martian. 
+
+* first item in list
+* second item in list
+
